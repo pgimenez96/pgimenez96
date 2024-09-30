@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en Roshka.<br>🌱 Actualmente estoy aprendiendo NodeJs y React.
+🔭 Actualmente estoy trabajando en Roshka.<br>🌱 Actualmente estoy aprendiendo Next JS.
 
 
 ## 🌐 Socials:
